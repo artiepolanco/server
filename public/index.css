@@ -1,0 +1,13 @@
+.description {
+  font-size: 18px;
+}
+
+#llama {
+  width: 100%;
+}
+
+@media screen and (min-device-width: 800px){
+  #llama {
+    width: 400px;
+  }
+}
